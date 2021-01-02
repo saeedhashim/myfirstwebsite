@@ -1,0 +1,99 @@
+body {
+    background-color: plum;
+}
+
+.welcome {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-family: monospace;
+}
+
+.media {
+    float: left;
+    margin-right: 100px;
+}
+
+.purpleborder {
+    border-color: purple;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: green;
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: blue;
+    text-decoration: underline;
+  }
+  
+a:active {
+    color: purple;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+
+.link1 {
+    position: absolute;
+    bottom: 300px;
+    margin-left: 150px;
+}
+
+.link2 {
+    position: absolute;
+    bottom: 300px;
+    margin-left: 700px;
+}
+
+.secondpage {
+    font-family: monospace;
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+.pl2019season {
+    font-family: Lobster;
+    font-size: 40px;
+    text-align: center;
+}
+
+.standings {
+    font-family: Lobster;
+    font-size: 30px;
+    text-align: center;
+}
+
+table {
+    background-color: white;
+    font-family: monospace;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+tr {
+    outline: solid;
+    outline-color: red;
+  }
+
+th {
+    outline: solid;
+    outline-color: red;
+}
+
+.homepage {
+    position: absolute;
+    bottom: 50px;
+    margin-left: 900px;
+}
